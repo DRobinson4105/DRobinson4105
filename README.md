@@ -3,10 +3,10 @@
 I am a Computer Science student at the University of Central Florida with a minor in Intelligent Robotic Systems and I am currently involved in research at UCF's Center for Research in Computer Vision. I'm passionate about machine learning and robotics, and I am looking forward to continue exploring how these fields come together to drive innovation in technology.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/davidrobinson05">
+  <a href="https://www.linkedin.com/in/davidrobinson05" style="display: inline-block; margin: 0;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/drobinson4105">
+  <a href="https://www.instagram.com/drobinson4105" style="display: inline-block; margin: 0;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:drobinson4105@gmail.com">
