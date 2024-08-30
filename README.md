@@ -9,8 +9,18 @@ I am a Computer Science student at the University of Central Florida with a mino
   <a href="https://www.instagram.com/drobinson4105" style="display: inline-block; margin: 0;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:drobinson4105@gmail.com">
+  <a href="mailto:drobinson4105@gmail.com" style="display: inline-block; margin: 0;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/davidrobinson05">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0;">
+  </a><a href="https://www.instagram.com/drobinson4105">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 0;">
+  </a><a href="mailto:drobinson4105@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 0;">
   </a>
 </p>
 
