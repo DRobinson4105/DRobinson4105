@@ -24,6 +24,16 @@ I am a Computer Science student at the University of Central Florida with a mino
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-username" style="margin-right: -4px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a><a href="https://www.instagram.com/your-instagram-username" style="margin-right: -4px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a><a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 
 ## Stats
 
