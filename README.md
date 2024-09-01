@@ -1,4 +1,4 @@
-## Hi there 👋 I'm David Robinson
+## Hi I'm David Robinson
 
 I am a Computer Science student at the University of Central Florida with a minor in Intelligent Robotic Systems and I am currently involved in research at UCF's Center for Research in Computer Vision. I'm passionate about machine learning and robotics, and I am looking forward to continue exploring how these fields come together to drive innovation in technology.
 
