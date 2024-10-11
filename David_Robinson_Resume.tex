@@ -12,6 +12,7 @@
 \usepackage[english]{babel}
 \usepackage{tabularx}
 \usepackage{fontawesome5}
+\usepackage[normalem]{ulem}
 \input{glyphtounicode}
 
 
@@ -102,10 +103,11 @@
 \begin{document}
 
 \begin{center}
-    \textbf{\Huge \scshape David Robinson} \\ \vspace{1pt} \faEnvelope\hspace{0.25pt}
-    \href{mailto:drobinson4105@gmail.com}{\underline{drobinson4105@gmail.com}} \faLinkedin\hspace{0.25pt}
-    \href{https://linkedin.com/in/davidrobinson05}{\underline{linkedin.com/in/davidrobinson05}} \faGithub\hspace{0.25pt}
-    \href{https://github.com/DRobinson4105}{\underline{github.com/DRobinson4105}}
+    \textbf{\Huge David Robinson} \\ \vspace{2pt} \small
+    \faCode\hspace{0.25pt} \href{https://www.davidrobinson.info/}{\uline{davidrobinson.info}}
+    \faEnvelope\hspace{0.25pt} \href{mailto:drobinson4105@gmail.com}{\uline{drobinson4105@gmail.com}}
+    \faLinkedin\hspace{0.25pt} \href{https://linkedin.com/in/davidrobinson05}{\uline{linkedin.com/in/davidrobinson05}}
+    \faGithub\hspace{0.25pt} \href{https://github.com/DRobinson4105}{\uline{github.com/DRobinson4105}}
 \end{center}
 
 %-----------EDUCATION-----------
@@ -145,21 +147,21 @@
 \section{Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
-          {\href{https://github.com/DRobinson4105/Simply-ASL}{\textbf{\underline{SimplyASL}}} $|$ \emph{PyTorch, Swift, Flask, OpenCV, OpenAI, Langchain, NumPy}}{}
+          {\href{https://github.com/DRobinson4105/Simply-ASL}{\textbf{\uline{SimplyASL}}} $|$ \emph{PyTorch, Swift, Flask, OpenCV, OpenAI, Langchain, NumPy}}{}
           \resumeItemListStart
             \resumeItem{Developed a \textbf{real-time visualization system} using \textbf{OpenCV} to display ASL by mapping 2D keypoints.}
             \resumeItem{Performed inference with Meta AI’s Sapiens Pose Estimation model to generate \textbf{2D pose} representations of ASL signs.}
             \resumeItem{Leveraged \textbf{OpenAI's GPT-4} to translate English words into ASL Gloss tokens with \textbf{prompt engineering}.}
           \resumeItemListEnd
       \resumeProjectHeading
-          {\href{https://github.com/DRobinson4105/accelify}{\textbf{\underline{Accelify}}} $|$ \emph{PyTorch, MongoDB, Pandas, NumPy, Scikit-Learn, Flask, Python}}{}
+          {\href{https://github.com/DRobinson4105/accelify}{\textbf{\uline{Accelify}}} $|$ \emph{PyTorch, MongoDB, Pandas, NumPy, Scikit-Learn, Flask, Python}}{}
           \resumeItemListStart
             \resumeItem{Designed and trained a \textbf{PyTorch LSTM-based architecture} to predict product recommendations based on industry and product-related embeddings, resulting in a \textbf{95.83\% reduction in loss}.}
             \resumeItem{Generated a recommendation dataset using TF-IDF, co-occurrence matrices, and scoring mechanisms with \textbf{150+ entries}.}
             \resumeItem{Automated real-time data retrieval and model updates via MongoDB with each API call.}
           \resumeItemListEnd
       \resumeProjectHeading
-          {\href{https://github.com/DRobinson4105/bookmate}{\textbf{\underline{BookMate}}} $|$ \emph{PyTorch, Selenium, NextJS 13, Flask, Python, R}}{}
+          {\href{https://github.com/DRobinson4105/bookmate}{\textbf{\uline{BookMate}}} $|$ \emph{PyTorch, Selenium, NextJS 13, Flask, Python, R}}{}
           \resumeItemListStart
             \resumeItem{Utilized \textbf{R} to visualize and \textbf{analyze training loss curves}, enhancing model evaluation and \textbf{performance tuning}.}
             \resumeItem{Trained the \textbf{YOLOv8} model on filtered barcode datasets, achieving \textbf{98.3 mAP} for identifying ISBNs.}
