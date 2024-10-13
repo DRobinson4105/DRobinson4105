@@ -3,7 +3,8 @@
 I am a Computer Science student at the University of Central Florida with a minor in Intelligent Robotic Systems and I am currently involved in research at UCF's Center for Research in Computer Vision. I'm passionate about machine learning and robotics, and I am looking forward to continue exploring how these fields come together to drive innovation in technology.
 
 Here is my latest project where I developed a recommendation system for ServiceNow's Technical Accelerators.
-[Accelify](https://github.com/DRobinson4105/accelify)
+<div class="github-card" data-github="DRobinson4105/accelify" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 
 ## Stats
