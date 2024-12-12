@@ -6,8 +6,8 @@ Currently, I am an undergraduate researcher at the UCF Center for Research in Co
 I aim to continue advancing the field of AI and computer vision, focusing on innovative solutions that bridge the gap between technology and real-world applications.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drobinson4105&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" style="height: 200px;">
-  <img src="https://leetcard.jacoblin.cool/DRobinson4105?theme=dark&font=Vollkorn%20SC" alt="LeetCode Stats" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=drobinson4105&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" style="height: 200px; width: 400px;">
+  <img src="https://leetcard.jacoblin.cool/DRobinson4105?theme=dark&font=Vollkorn%20SC" alt="LeetCode Stats" style="height: 200px; width: 400px;">
 </div>
 
 <br>
