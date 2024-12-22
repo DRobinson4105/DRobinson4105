@@ -1,9 +1,7 @@
 ## Hi I'm David Robinson
-I am passionate about leveraging machine learning and computer vision to address real-world challenges and enhance human-technology interactions.
+I am an undergraduate Computer Science student with a Data Science minor at UCF, and I am passionate about leveraging machine learning to address real-world challenges and enhance human-technology interactions.
 
 Currently, I am an undergraduate researcher at the UCF Center for Research in Computer Vision under Dr. Mubarak Shah, where I explore hand-object interaction to quantify human movement control in natural environments using various 3D pose estimation methods.
-
-I aim to continue advancing the field of AI and computer vision, focusing on innovative solutions that bridge the gap between technology and real-world applications.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=drobinson4105&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" style="height: 175px; width: 350px;">
