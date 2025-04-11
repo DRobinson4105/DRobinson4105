@@ -1,5 +1,5 @@
 ## Hi I'm David Robinson
-I am an undergraduate Computer Science student with a Data Science minor at UCF, and I am passionate about leveraging machine learning to address real-world challenges and enhance human-technology interactions.
+I am an undergraduate Computer Science student with an Intelligent Robotic Systems minor at UCF, and I am passionate about leveraging machine learning to address real-world challenges and enhance human-technology interactions.
 
 Currently, I am an undergraduate researcher at the UCF Center for Research in Computer Vision under Dr. Mubarak Shah, where I explore hand-object interaction to quantify human movement control in natural environments using various 3D pose estimation methods.
 
