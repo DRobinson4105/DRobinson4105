@@ -4,7 +4,6 @@ I am an undergraduate Computer Science student with a Data Science minor at UCF,
 Currently, I am an undergraduate researcher at the UCF Center for Research in Computer Vision under Dr. Mubarak Shah, where I explore hand-object interaction to quantify human movement control in natural environments using various 3D pose estimation methods.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drobinson4105&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" style="height: 175px; width: 350px;">
   <img src="https://leetcard.jacoblin.cool/DRobinson4105?theme=dark&font=Vollkorn%20SC" alt="LeetCode Stats" style="height: 175px; width: 350px;">
 </div>
 
