@@ -11,7 +11,7 @@ Currently, I am an undergraduate researcher at the UCF Center for Research in Co
 
 <div align="center">
   
-[![Personal Portfolio](https://img.shields.io/badge/personal%20portfolio-red?style=for-the-badge)](https://www.davidrobinson.info/)
+[![Personal Portfolio](https://img.shields.io/badge/personal%20portfolio-red?style=for-the-badge)](https://www.davidr.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/davidrobinson05/)
 
 </div>
